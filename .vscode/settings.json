@@ -35,5 +35,12 @@
         ".monaco-editor .scroll-decoration": "box-shadow: unset !important;",
         ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab": "background-color: transparent !important;",
         ".monaco-workbench .part.panel.bottom .composite.title": "margin-bottom: 10px !important;",
+    },
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#0de91f",
+        "terminal.background": "#020202",
+        "activityBar.background": "#162573",
+        "titleBar.activeBackground": "#1F33A0",
+        "titleBar.activeForeground": "#FAFBFE"
     }
 }
